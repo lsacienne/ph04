@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T09:44:26.444Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="EtVbosMhsnIn8EgN6MUA" version="15.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-10T10:03:07.122Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="9QTqh3hdBerMTwtJadL4" version="15.7.1" type="github">
   <diagram id="oHmqWV7A240VhePcfBPf" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,6 +76,9 @@
         <mxCell id="Os4sUCZClLTUmzjzgjrs-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="X3NhqiDfgeXqBvUIxgGH-13" target="Os4sUCZClLTUmzjzgjrs-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Os4sUCZClLTUmzjzgjrs-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="X3NhqiDfgeXqBvUIxgGH-13" target="Os4sUCZClLTUmzjzgjrs-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="X3NhqiDfgeXqBvUIxgGH-13" value="limites" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-70" y="250" width="120" height="60" as="geometry" />
         </mxCell>
@@ -120,6 +123,12 @@
         </mxCell>
         <mxCell id="Os4sUCZClLTUmzjzgjrs-2" value="on computable numbers with an application to the entscheidungsproblem (1936)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="50" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Os4sUCZClLTUmzjzgjrs-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Os4sUCZClLTUmzjzgjrs-6" target="X3NhqiDfgeXqBvUIxgGH-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Os4sUCZClLTUmzjzgjrs-6" value="puissance de calcul démentielle, comment améliorer GPT-3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
